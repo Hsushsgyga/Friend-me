@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+}
+header{
+  border: 5px solid black;
+  margin-bottom: 100px;
+  text-align:center;
+  width:40%;
+  padding:20px;
+}
+.her{
+  border: 5px solid red;
+  margin-bottom: 100px;
+  text-align:right ;
+  margin-left: 700px
+}
+section{
+  border: 5px solid red;
+  margin-bottom: 100px;
+  text-align:center;
+  width: 40%; 
+  
+}
+footer{
+  border: 5px solid blue;
+  text-align:center; 
+}
